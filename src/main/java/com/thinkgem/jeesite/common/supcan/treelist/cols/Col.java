@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.supcan.treelist.cols;
 
 import com.thinkgem.jeesite.common.supcan.annotation.treelist.cols.SupCol;

@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * Copyright &copy；2015
  */
 package com.thinkgem.jeesite.modules.gen.service;
 
@@ -25,7 +25,7 @@ import com.thinkgem.jeesite.modules.gen.util.GenUtils;
 
 /**
  * 生成方案Service
- * @author ThinkGem
+ * @author
  * @version 2013-10-15
  */
 @Service

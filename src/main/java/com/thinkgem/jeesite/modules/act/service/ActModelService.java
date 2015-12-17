@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.act.service;
 
 import java.io.ByteArrayInputStream;
@@ -34,7 +32,7 @@ import com.thinkgem.jeesite.common.service.BaseService;
 
 /**
  * 流程模型相关Controller
- * @author ThinkGem
+ * @author
  * @version 2013-11-03
  */
 @Service

@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.test.web;
 
 import javax.servlet.http.HttpServletRequest;
@@ -26,7 +24,7 @@ import com.thinkgem.jeesite.modules.test.service.TestService;
 
 /**
  * 测试Controller
- * @author ThinkGem
+ * @author
  * @version 2013-10-17
  */
 @Controller

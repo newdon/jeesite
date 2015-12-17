@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.act.utils;
 
 import java.text.ParseException;
@@ -15,7 +13,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * 日期转换类
- * @author ThinkGem
+ * @author
  * @version 2013-11-03
  */
 public class DateConverter implements Converter {

@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.utils;
 
 import java.io.File;
@@ -20,7 +18,7 @@ import org.slf4j.LoggerFactory;
 /**
  * 文件操作工具类
  * 实现文件的创建、删除、复制、压缩、解压以及目录的创建、删除、复制、压缩解压等功能
- * @author ThinkGem
+ * @author
  * @version 2013-06-21
  */
 public class FileUtils extends org.apache.commons.io.FileUtils {

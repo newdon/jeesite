@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.persistence.dialect.db;
 
 import org.apache.commons.lang3.StringUtils;
@@ -9,7 +7,7 @@ import com.thinkgem.jeesite.common.persistence.dialect.Dialect;
 
 /**
  * Sql 2005的方言实现
- * @author poplar.yfyang
+ * @author
  * @version 1.0 2010-10-10 下午12:31
  * @since JDK 1.5
  */

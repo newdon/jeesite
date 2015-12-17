@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.act.service;
 
 import java.io.InputStream;
@@ -59,7 +57,7 @@ import com.thinkgem.jeesite.modules.sys.utils.UserUtils;
 
 /**
  * 流程定义相关Service
- * @author ThinkGem
+ * @author
  * @version 2013-11-03
  */
 @Service

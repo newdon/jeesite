@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * Copyright &copy；2015
  */
 package com.thinkgem.jeesite.common.persistence.interceptor;
 
@@ -21,7 +21,7 @@ import java.util.Properties;
 
 /**
  * Mybatis数据库分页插件，拦截StatementHandler的prepare方法
- * @author poplar.yfyang / thinkgem
+ * @author / thinkgem
  * @version 2013-8-28
  */
 @Intercepts({

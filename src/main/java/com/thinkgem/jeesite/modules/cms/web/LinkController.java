@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.cms.web;
 
 import java.util.List;
@@ -30,7 +28,7 @@ import com.thinkgem.jeesite.modules.cms.service.LinkService;
 
 /**
  * 链接Controller
- * @author ThinkGem
+ * @author
  * @version 2013-3-23
  */
 @Controller

@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.security.shiro.session;
 
 import java.io.Serializable;
@@ -26,7 +24,7 @@ import com.thinkgem.jeesite.common.web.Servlets;
 
 /**
  * 系统安全认证实现类
- * @author ThinkGem
+ * @author
  * @version 2014-7-24
  */
 public class CacheSessionDAO extends EnterpriseCacheSessionDAO implements SessionDAO {

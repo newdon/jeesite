@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * Copyright &copy；2015
  */
 package com.thinkgem.jeesite.common.persistence.dialect.db;
 
@@ -8,7 +8,7 @@ import com.thinkgem.jeesite.common.persistence.dialect.Dialect;
 /**
  * A dialect compatible with the H2 database.
  *
- * @author poplar.yfyang
+ * @author
  * @version 1.0 2010-10-10 下午12:31
  * @since JDK 1.5
  */

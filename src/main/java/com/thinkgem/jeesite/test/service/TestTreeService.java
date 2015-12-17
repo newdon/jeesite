@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.test.service;
 
 import java.util.List;
@@ -15,7 +13,7 @@ import com.thinkgem.jeesite.test.dao.TestTreeDao;
 
 /**
  * 树结构生成Service
- * @author ThinkGem
+ * @author
  * @version 2015-04-06
  */
 @Service

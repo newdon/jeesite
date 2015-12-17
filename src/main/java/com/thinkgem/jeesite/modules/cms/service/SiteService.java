@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.cms.service;
 
 import org.apache.commons.lang3.StringEscapeUtils;
@@ -15,7 +13,7 @@ import com.thinkgem.jeesite.modules.cms.utils.CmsUtils;
 
 /**
  * 站点Service
- * @author ThinkGem
+ * @author
  * @version 2013-01-15
  */
 @Service

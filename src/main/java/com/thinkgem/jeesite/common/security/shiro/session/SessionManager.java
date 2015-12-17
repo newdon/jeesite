@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.security.shiro.session;
 
 import java.io.Serializable;
@@ -28,7 +26,7 @@ import com.thinkgem.jeesite.common.utils.StringUtils;
 
 /**
  * 自定义WEB会话管理类
- * @author ThinkGem
+ * @author
  * @version 2014-7-20
  */
 public class SessionManager extends DefaultWebSessionManager {

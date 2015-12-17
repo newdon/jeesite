@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.test.web;
 
 import java.util.List;
@@ -29,7 +27,7 @@ import com.thinkgem.jeesite.test.service.TestTreeService;
 
 /**
  * 树结构生成Controller
- * @author ThinkGem
+ * @author
  * @version 2015-04-06
  */
 @Controller

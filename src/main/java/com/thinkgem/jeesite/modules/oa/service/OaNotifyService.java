@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.oa.service;
 
 import java.util.Date;
@@ -18,7 +16,7 @@ import com.thinkgem.jeesite.modules.oa.dao.OaNotifyRecordDao;
 
 /**
  * 通知通告Service
- * @author ThinkGem
+ * @author
  * @version 2014-05-16
  */
 @Service

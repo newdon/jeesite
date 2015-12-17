@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.cms.entity;
 
 import org.apache.commons.lang3.StringUtils;
@@ -11,7 +9,7 @@ import com.thinkgem.jeesite.modules.sys.utils.UserUtils;
 
 /**
  * 站点Entity
- * @author ThinkGem
+ * @author
  * @version 2013-05-15
  */
 public class Site extends DataEntity<Site> {

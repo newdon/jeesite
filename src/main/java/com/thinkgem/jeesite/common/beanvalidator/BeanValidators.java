@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2005-2012 springside.org.cn
+ * Copyright (c) 2015
  */
 package com.thinkgem.jeesite.common.beanvalidator;
 

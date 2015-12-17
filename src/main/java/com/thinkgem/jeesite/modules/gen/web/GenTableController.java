@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.gen.web;
 
 import java.util.List;
@@ -28,7 +26,7 @@ import com.thinkgem.jeesite.modules.gen.util.GenUtils;
 
 /**
  * 业务表Controller
- * @author ThinkGem
+ * @author
  * @version 2013-10-15
  */
 @Controller

@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.persistence.proxy;
 
 import org.apache.ibatis.binding.BindingException;
@@ -13,7 +11,7 @@ import org.apache.ibatis.session.SqlSession;
  * .
  * </p>
  *
- * @author poplar.yfyang
+ * @author
  * @version 1.0 2012-05-13 上午10:06
  * @since JDK 1.5
  */

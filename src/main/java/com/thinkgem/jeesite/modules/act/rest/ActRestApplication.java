@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.act.rest;
 
 import org.activiti.rest.common.api.DefaultResource;
@@ -13,7 +11,7 @@ import org.restlet.routing.Router;
 
 /**
  * Activit Rest
- * @author ThinkGem
+ * @author
  * @version 2013-11-03
  */
 public class ActRestApplication extends ActivitiRestApplication {

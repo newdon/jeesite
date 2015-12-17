@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.gen.entity;
 
 import java.util.List;
@@ -13,7 +11,7 @@ import com.thinkgem.jeesite.modules.sys.entity.Dict;
 
 /**
  * 生成方案Entity
- * @author ThinkGem
+ * @author
  * @version 2013-10-15
  */
 @XmlRootElement(name="category")

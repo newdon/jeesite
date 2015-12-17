@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.oa.web;
 
 import javax.servlet.http.HttpServletRequest;
@@ -25,7 +23,7 @@ import com.thinkgem.jeesite.modules.oa.service.TestAuditService;
 
 /**
  * 审批Controller
- * @author thinkgem
+ * @author
  * @version 2014-05-16
  */
 @Controller

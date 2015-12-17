@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.supcan;
 
 import java.lang.reflect.Method;
@@ -31,7 +29,7 @@ import com.thinkgem.jeesite.common.web.BaseController;
 
 /**
  * 硕正Controller
- * @author ThinkGem
+ * @author
  * @version 2013-11-13
  */
 @Controller

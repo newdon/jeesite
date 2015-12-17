@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * Copyright &copy；2015
  */
 package com.thinkgem.jeesite.common.persistence.proxy;
 
@@ -12,7 +12,7 @@ import org.apache.ibatis.session.SqlSession;
  * 自定义Mybatis的配置，扩展.
  * </p>
  *
- * @author poplar.yfyang
+ * @author
  * @version 1.0 2012-05-13 上午10:06
  * @since JDK 1.5
  */

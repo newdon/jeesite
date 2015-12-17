@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.sys.dao;
 
 import java.util.List;
@@ -11,7 +9,7 @@ import com.thinkgem.jeesite.modules.sys.entity.User;
 
 /**
  * 用户DAO接口
- * @author ThinkGem
+ * @author
  * @version 2014-05-16
  */
 @MyBatisDao

@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.utils.excel;
 
 import java.io.File;
@@ -34,7 +32,7 @@ import com.thinkgem.jeesite.modules.sys.utils.DictUtils;
 
 /**
  * 导入Excel文件（支持“XLS”和“XLSX”格式）
- * @author ThinkGem
+ * @author
  * @version 2013-03-10
  */
 public class ImportExcel {

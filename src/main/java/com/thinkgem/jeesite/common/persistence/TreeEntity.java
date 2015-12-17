@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.persistence;
 
 import javax.validation.constraints.NotNull;
@@ -13,7 +11,7 @@ import com.thinkgem.jeesite.common.utils.StringUtils;
 
 /**
  * 数据Entity类
- * @author ThinkGem
+ * @author
  * @version 2014-05-16
  */
 public abstract class TreeEntity<T> extends DataEntity<T> {

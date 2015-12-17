@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.web;
 
 import javax.servlet.ServletConfig;
@@ -17,7 +15,7 @@ import com.ckfinder.connector.utils.AccessControlUtil;
 
 /**
  * CKFinder配置
- * @author ThinkGem
+ * @author
  * @version 2014-06-25
  */
 public class CKFinderConfig extends Configuration {

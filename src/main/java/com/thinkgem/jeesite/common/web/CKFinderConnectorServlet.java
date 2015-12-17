@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.web;
 
 import java.io.IOException;
@@ -18,7 +16,7 @@ import com.ckfinder.connector.ConnectorServlet;
 
 /**
  * CKFinderConnectorServlet
- * @author ThinkGem
+ * @author
  * @version 2014-06-25
  */
 public class CKFinderConnectorServlet extends ConnectorServlet {

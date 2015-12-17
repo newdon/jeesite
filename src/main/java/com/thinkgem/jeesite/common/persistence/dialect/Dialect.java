@@ -1,12 +1,12 @@
 /**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * Copyright &copy；2015
  */
 package com.thinkgem.jeesite.common.persistence.dialect;
 
 /**
  * 类似hibernate的Dialect,但只精简出分页部分
  *
- * @author poplar.yfyang
+ * @author
  * @version 1.0 2011-11-18 下午12:31
  * @since JDK 1.5
  */

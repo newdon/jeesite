@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.modules.oa.service;
 
 import java.util.Map;
@@ -20,7 +18,7 @@ import com.thinkgem.jeesite.modules.oa.dao.TestAuditDao;
 
 /**
  * 审批Service
- * @author thinkgem
+ * @author
  * @version 2014-05-16
  */
 @Service

@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.utils;
 
 import javax.servlet.http.HttpServletRequest;
@@ -11,7 +9,7 @@ import eu.bitwalker.useragentutils.UserAgent;
 
 /**
  * 用户代理字符串识别工具
- * @author ThinkGem
+ * @author
  * @version 2014-6-13
  */
 public class UserAgentUtils {

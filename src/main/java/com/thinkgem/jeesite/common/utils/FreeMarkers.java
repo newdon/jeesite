@@ -1,6 +1,4 @@
-/**
- * Copyright &copy; 2012-2014 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
- */
+
 package com.thinkgem.jeesite.common.utils;
 
 import java.io.IOException;
@@ -16,7 +14,7 @@ import freemarker.template.Template;
 
 /**
  * FreeMarkers工具类
- * @author ThinkGem
+ * @author
  * @version 2013-01-15
  */
 public class FreeMarkers {
